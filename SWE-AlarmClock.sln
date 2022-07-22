@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWE-AlarmClock", "SWE-AlarmClock\SWE-AlarmClock.csproj", "{A7BFE720-AF6D-47CE-BFA1-67C24F6D48AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7BFE720-AF6D-47CE-BFA1-67C24F6D48AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7BFE720-AF6D-47CE-BFA1-67C24F6D48AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7BFE720-AF6D-47CE-BFA1-67C24F6D48AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7BFE720-AF6D-47CE-BFA1-67C24F6D48AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85147A07-2DAC-4E16-9726-4FF5CAE5008F}
+	EndGlobalSection
+EndGlobal
